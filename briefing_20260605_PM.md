@@ -1,17 +1,17 @@
 # SYTE Corp BD 简报 — 2026-06-05
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-05 16:14
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-05 21:38
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **3** 个 |
-| 本次**更新**记录 | 20 个 |
-| 当前有效机会总数 | 139 个 |
-| 其中 Solicitation | 99 个 |
-| 其中 Presolicitation | 40 个 |
-| 🔴 极紧急（≤7天） | 37 个 |
+| 本次**新增**机会 | **5** 个 |
+| 本次**更新**记录 | 6 个 |
+| 当前有效机会总数 | 144 个 |
+| 其中 Solicitation | 101 个 |
+| 其中 Presolicitation | 43 个 |
+| 🔴 极紧急（≤7天） | 38 个 |
 | 🟠 紧急（8–14天） | 18 个 |
 | ⭐ SDVOSB Solicitation | 17 个 |
 
@@ -19,9 +19,11 @@
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Solicitation | FY26 D54 Cellblock Air Filter Replacement | New York, New York | 561210 | 06/08/2026 | 3d | — | 🔴 极紧急 |
-| Solicitation | AR-MAMMOTH SPRING NFH-REPLACE GENERATOR | Not Specified | 238210 | 06/23/2026 | 18d | — | 🟡 关注 |
-| Solicitation | Solicitation for Grand Forks Fueling System Repairs | Not Specified | 油气管道 | 07/10/2026 | 35d | — | ⬜ 正常 |
+| Solicitation | Fermilab-ICB-A Angstrom E-Beam ECR Vacuum Electrical Fe… | Not Specified | 238210 | 06/12/2026 | 7d | — | 🔴 极紧急 |
+| Solicitation |  AIRR Security Cameras & Badging for BTFA | Not Specified | 238210 | 06/23/2026 | 18d | — | 🟡 关注 |
+| Presolicitation | FY26 MOTSU Berms Pre -Solicitation Notice | Not Specified | 其他重型土建 | 06/23/2026 | 18d | — | 🟡 关注 |
+| Presolicitation | Indefinite Delivery/Indefinite Quantity (IDIQ), Operati… | Royal, Arkansas | 561210 | 07/15/2026 | 40d | — | ⬜ 正常 |
+| Presolicitation | Z--PR-CULEBRA NWR-ROAD & PARKING REHAB | Not Specified | 公路/桥梁 | — | — | $500,000 and $1,000,000 | — |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -52,7 +54,6 @@
 | W50S8J26QA015 | Apron Striping - Stratton Air National Guard Base | Schenectady, New York | 06/09/2026 | **4d** | — |  |
 | 191BWC26B0001 | Tainter Gates Sandblasting | Del Rio, Texas | 06/09/2026 | **4d** | $1 Million to $5 Million |  |
 | 36C26326B0030-0002 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | **4d** | — | ⭐ SDVOSB |
-| W912P826BA041 | West Shore Lake Pontchartrain, Louisiana, Hurrican… | New Orleans, Louisiana | 06/09/2026 | **4d** | — |  |
 | 36C26326B0030-0004 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | **4d** | — | ⭐ SDVOSB |
 | 36C26326B0030-0003 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | **4d** | — | ⭐ SDVOSB |
 | 140P6026Q0042 | Z--FOLS, Replace Alarm System & Electrical Panel | Larned, Kansas | 06/10/2026 | **5d** | — |  |
@@ -62,8 +63,10 @@
 | FA446026Q0383 | Repair/Replace Traffic Lights | Little Rock Air Force Base, Arkansas | 06/11/2026 | **6d** | — |  |
 | W912P726BA002 | FY26 REDWOOD CITY CHANNEL MAINTENANCE DREDGING PRO… | Not Specified | 06/12/2026 | **7d** | $5,000,000 - $10,000,000 |  |
 | 36C78626R0059_1 | Project # 962CM3003 | Cemetery Improvement Project… | Vallejo, California | 06/12/2026 | **7d** | $5,000,000 and $10,000,000 | ⭐ SDVOSB |
+| W912P826BA041 | West Shore Lake Pontchartrain, Louisiana, Hurrican… | New Orleans, Louisiana | 06/12/2026 | **7d** | — |  |
 | 140P8426Q0035 | Grade and Pave, Lassen Volcanic NP | Not Specified | 06/12/2026 | **7d** | — |  |
 | 36C78626B0019 | Memphis National Cemetery, National Shrine Project | Memphis, Tennessee | 06/12/2026 | **7d** | — | ⭐ SDVOSB |
+| 378957-DG | Fermilab-ICB-A Angstrom E-Beam ECR Vacuum Electric… | Not Specified | 06/12/2026 | **7d** | — |  |
 | 140FC326Q0024 | CA-FWS MODOC NWR-WATER MAIN REPAIR | Not Specified | 06/15/2026 | **10d** | $50,000 to $65,000.00 |  |
 | 140L1226R0002 | INDIAN WELLS CYN RD O&M | Not Specified | 06/15/2026 | **10d** | — |  |
 | 140L1226R0003 | BESSEMER MINE ROAD O&M | Not Specified | 06/15/2026 | **10d** | — |  |
