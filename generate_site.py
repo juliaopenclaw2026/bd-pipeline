@@ -53,7 +53,18 @@ def copy_html_pages(pages: list[Page]) -> None:
     os.makedirs(SITE_DIR, exist_ok=True)
 
     for page in pages:
-        shutil.copy2(os.path.join(BASE, page.filename), os.path.join(SITE_DIR, page.filename))
+        with open(os.path.join(BASE, page.filename), encoding="utf-8") as src:
+            content = src.read()
+        content = (
+            content
+            .replace("SYTE Corp · Business Development", "Business Development")
+            .replace("SYTE Corp — CEO Brief", "Executive Brief")
+            .replace("SYTE BD Pipeline", "Federal Opportunity Pipeline")
+            .replace("SYTE Corp", "Company")
+            .replace("SYTE", "Company")
+        )
+        with open(os.path.join(SITE_DIR, page.filename), "w", encoding="utf-8") as dest:
+            dest.write(content)
 
     with open(os.path.join(SITE_DIR, ".nojekyll"), "w", encoding="utf-8") as f:
         f.write("")
@@ -79,7 +90,7 @@ def build_index(pages: list[Page]) -> None:
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SYTE BD Pipeline</title>
+  <title>Federal Opportunity Pipeline</title>
   <style>
     * {{ box-sizing: border-box; }}
     html {{ scroll-behavior: smooth; }}
@@ -342,7 +353,7 @@ def build_index(pages: list[Page]) -> None:
   <header class="hero">
     <div class="wrap">
       <nav>
-        <div class="brand">SYTE Corp</div>
+        <div class="brand">BD Automation</div>
         <div class="nav-links">
           <a href="#workflow">Workflow</a>
           <a href="#outputs">Outputs</a>
@@ -352,8 +363,8 @@ def build_index(pages: list[Page]) -> None:
       <div class="hero-grid">
         <div>
           <div class="eyebrow">SAM.gov business development automation</div>
-          <h1>SYTE BD Pipeline</h1>
-          <p class="summary">A cloud workflow that turns federal opportunity noise into a focused CEO briefing, so SYTE can see what is new, urgent, and worth action.</p>
+          <h1>Federal Opportunity Pipeline</h1>
+          <p class="summary">A cloud workflow that turns federal opportunity noise into a focused executive briefing, making it easier to see what is new, urgent, and worth action.</p>
           <div class="hero-actions">
             {latest_button}
             <a class="secondary" href="#workflow">See how it works</a>
