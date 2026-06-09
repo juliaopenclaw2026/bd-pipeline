@@ -1,30 +1,28 @@
 # SYTE Corp BD 简报 — 2026-06-09
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-09 16:18
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-09 21:51
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **6** 个 |
-| 本次**更新**记录 | 16 个 |
-| 当前有效机会总数 | 136 个 |
-| 其中 Solicitation | 91 个 |
-| 其中 Presolicitation | 45 个 |
-| 🔴 极紧急（≤7天） | 30 个 |
-| 🟠 紧急（8–14天） | 23 个 |
+| 本次**新增**机会 | **4** 个 |
+| 本次**更新**记录 | 10 个 |
+| 当前有效机会总数 | 140 个 |
+| 其中 Solicitation | 94 个 |
+| 其中 Presolicitation | 46 个 |
+| 🔴 极紧急（≤7天） | 29 个 |
+| 🟠 紧急（8–14天） | 25 个 |
 | ⭐ SDVOSB Solicitation | 15 个 |
 
 ## 🆕 本次新增机会
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Solicitation | EO14398 UST ASSESSMENT & REPORTING - GLBA | Not Specified | 213112 | 06/24/2026 | 15d | — | 🟡 关注 |
-| Presolicitation | Atlantic Intracoastal Waterway Maintenance Dredging | North Carolina | 其他重型土建 | 06/24/2026 | 15d | $10,000,000.00 and $25,000,000.00 | 🟡 关注 |
-| Presolicitation | 6150--FY26 NRM 654-26-020 | 654-26-2-6059-0042 | Bldg 1… | Reno, NV | 238210 | 06/24/2026 | 15d | $250,000 and $500,000 | ⭐ SDVOSB🟡 关注 |
-| Presolicitation | Z--REPLACE BACKFLOW PREVENTER ON LIGHTHOUSE ROAD AT CAP… | Not Specified | 水/污水管线 | 07/24/2026 | 45d | — | ⬜ 正常 |
-| Presolicitation | Z--REPLACE PLANKS AND REPAIR PILINGS AT BODIE ISLAND LI… | Not Specified | 其他重型土建 | 07/24/2026 | 45d | — | ⬜ 正常 |
-| Presolicitation | Repair/Replace Mass Parking Apron Section V at Minot AF… | Not Specified | 公路/桥梁 | — | — | $25,000,000 and $35,000000 | — |
+| Solicitation | NM - SW NATIVE ARC - 5-Year BPA for Well Repair | Not Specified | 水/污水管线 | 06/23/2026 | 14d | — | 🟠 紧急 |
+| Solicitation | Y--Hasty Point Rice Trunk & | Not Specified | 其他重型土建 | 06/23/2026 | 14d | — | 🟠 紧急 |
+| Solicitation | RELOCATABLE FACILITY (RFL) MAINTENANCE AND REPAIR SERVI… | Not Specified | 561210 | 07/07/2026 | 28d | — | 🟡 关注 |
+| Presolicitation | Z--CYCLIC MAINTENANCE OF WATER CISTERNS AT DRY TORTUGAS… | Not Specified | 水/污水管线 | 07/24/2026 | 45d | — | ⬜ 正常 |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -33,7 +31,6 @@
 | 140P4526Q0021 | Z--PAGR RESTORE MAINT. LOT  | Not Specified | 06/09/2026 | **0d** | — |  |
 | 140P2026R0045 | Y--VOYA 335009 N191 REHAB RAINY AND ASH  | Not Specified | 06/09/2026 | **0d** | — |  |
 | W50S8J26QA015 | Apron Striping - Stratton Air National Guard Base | Schenectady, New York | 06/09/2026 | **0d** | — |  |
-| 191BWC26B0001 | Tainter Gates Sandblasting | Del Rio, Texas | 06/09/2026 | **0d** | $1 Million to $5 Million |  |
 | 36C26326B0030-0002 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | **0d** | — | ⭐ SDVOSB |
 | 36C26326B0030-0004 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | **0d** | — | ⭐ SDVOSB |
 | 36C26326B0030-0003 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | **0d** | — | ⭐ SDVOSB |
@@ -70,7 +67,7 @@
 | 36C78626R0059_1 | Project # 962CM3003 | Cemetery Improvement Project… | Vallejo, California | 06/19/2026 | **10d** | $5,000,000 and $10,000,000 | ⭐ SDVOSB |
 | 140P8426R0002 | Z--Rehab Power and Cooling Systems, Pinnalces NP | Paicines | 06/19/2026 | **10d** | — |  |
 | W912P526RA008 | DESGIN BUILD/DESIGN BID BUILD ENVIRONMENTAL INFRAS… | Not Specified | 06/22/2026 | **13d** | $1M to $15M |  |
-| 140P6326Q0022 | PAIS WASTE WATER TANK REPLACEMENT | Not Specified | 06/22/2026 | **13d** | — |  |
+| 140P6326Q0022 | Y--PAIS WASTE WATER TANK REPLACEMENT | Not Specified | 06/22/2026 | **13d** | — |  |
 | 140L3626Q0021 | Z--GAOA SOAP GULCH ROAD | Not Specified | 06/22/2026 | **13d** | — |  |
 | W9123626BA007 | James River Maintenance Dredging IDIQ | Not Specified | 06/22/2026 | **13d** | — |  |
 | 140P8626R0003 | Z--Conlon Creek Culvert Removal & Restoration, GOG… | Not Specified | 06/22/2026 | **13d** | — |  |
@@ -83,6 +80,8 @@
 | FA480026B0002 | IFB FA489926B0002 - JBLE Paving Services | Not Specified | 06/23/2026 | **14d** | $132,667,510 |  |
 | 140FGA26Q0033 | AR-MAMMOTH SPRING NFH-REPLACE GENERATOR | Not Specified | 06/23/2026 | **14d** | — |  |
 | 140A1626QD002 |  AIRR Security Cameras & Badging for BTFA | Not Specified | 06/23/2026 | **14d** | — |  |
+| 140FS226Q0120 | NM - SW NATIVE ARC - 5-Year BPA for Well Repair | Not Specified | 06/23/2026 | **14d** | — |  |
+| 140FC126R0025 | Y--Hasty Point Rice Trunk & | Not Specified | 06/23/2026 | **14d** | — |  |
 
 ## ⭐ SDVOSB 重点机会（最高优先级）
 
