@@ -1,15 +1,15 @@
 # SYTE Corp BD 简报 — 2026-06-10
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-10 16:47
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-10 22:09
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **1** 个 |
-| 本次**更新**记录 | 20 个 |
-| 当前有效机会总数 | 135 个 |
-| 其中 Solicitation | 88 个 |
+| 本次**新增**机会 | **4** 个 |
+| 本次**更新**记录 | 8 个 |
+| 当前有效机会总数 | 139 个 |
+| 其中 Solicitation | 92 个 |
 | 其中 Presolicitation | 47 个 |
 | 🔴 极紧急（≤7天） | 24 个 |
 | 🟠 紧急（8–14天） | 28 个 |
@@ -19,7 +19,10 @@
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Presolicitation | N091--PROJECT # 528-18-110  Fuel Oil Tank Replacement  … | Buffalo, New York | 油气管道 | — | — | $5,000,000 and $10,000,000 | ⭐ SDVOSB— |
+| Solicitation | 841st Network Cabling Installation | North Charleston, South Carolina | 238210 | 06/26/2026 | 16d | — | 🟡 关注 |
+| Solicitation | VY-MISSISQUOI NWR-PARKING LOT MAINT | Not Specified | 公路/桥梁 | 07/03/2026 | 23d | — | 🟡 关注 |
+| Solicitation | GAOA Grand Isle NRA Water System Improvement | Munising, Michigan | 水/污水管线 | 07/10/2026 | 30d | — | 🟡 关注 |
+| Presolicitation | Z--Theodore Roosevelt National Park- Restripe Park Road… | Medora, North Dakota | 公路/桥梁 | — | — | — | — |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -69,7 +72,7 @@
 | FA441726Q0099 | 23 STS HPTC Surround Sound Installation | Hurlburt Field, Florida | 06/23/2026 | **13d** | — |  |
 | 140FC226Q0033 | VA-RAPPAHANNOCK RIV NWR-WELL DRILLING | Not Specified | 06/23/2026 | **13d** | — |  |
 | FA480026B0002 | IFB FA489926B0002 - JBLE Paving Services | Not Specified | 06/23/2026 | **13d** | $132,667,510 |  |
-| 140FGA26Q0033 | AR-MAMMOTH SPRING NFH-REPLACE GENERATOR | Not Specified | 06/23/2026 | **13d** | — |  |
+| 140FGA26Q0033 | 61--AR-MAMMOTH SPRING NFH-REPLACE GENERATOR | Not Specified | 06/23/2026 | **13d** | — |  |
 | 140A1626QD002 |  AIRR Security Cameras & Badging for BTFA | Not Specified | 06/23/2026 | **13d** | — |  |
 | 140FS226Q0120 | NM - SW NATIVE ARC - 5-Year BPA for Well Repair | Not Specified | 06/23/2026 | **13d** | — |  |
 | 140FC126R0025 | Y--Hasty Point Rice Trunk & | Not Specified | 06/23/2026 | **13d** | — |  |
@@ -107,8 +110,8 @@
 | 140P5426R0010 | Y--FOMA REPLACE NATURE TRAIL BOARDWALK RS | Not Specified | 06/26/2026 | 16d | — |
 | 89503426BWA000066 | Carpenter Substation Stage 03 South Dakota | Not Specified | 06/26/2026 | 16d | — |
 | 140P6026Q0025 | FOSM - Replace Backflow Prevention Assemblies | Fort Smith, Arkansas | 06/26/2026 | 16d | — |
+| FA441826Q0067 | 841st Network Cabling Installation | North Charleston, South Carolina | 06/26/2026 | 16d | — |
 | 140R2026R0007 | CT SWITCHGEAR REPLACEMENT STAMPEDE PP | Not Specified | 06/27/2026 | 17d | — |
-| W912QR26RA033 | Anniston Army Depot (ANAD) Power Generation and Mi… | Anniston, Alabama | 06/29/2026 | 19d | — |
 
 ## 👀 Presolicitation 预警（SDVOSB 优先）
 
