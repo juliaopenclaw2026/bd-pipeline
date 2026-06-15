@@ -1,16 +1,16 @@
 # SYTE Corp BD 简报 — 2026-06-15
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-15 18:10
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-15 22:23
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **1** 个 |
-| 本次**更新**记录 | 19 个 |
-| 当前有效机会总数 | 140 个 |
-| 其中 Solicitation | 91 个 |
-| 其中 Presolicitation | 49 个 |
+| 本次**新增**机会 | **4** 个 |
+| 本次**更新**记录 | 11 个 |
+| 当前有效机会总数 | 144 个 |
+| 其中 Solicitation | 93 个 |
+| 其中 Presolicitation | 51 个 |
 | 🔴 极紧急（≤7天） | 27 个 |
 | 🟠 紧急（8–14天） | 34 个 |
 | ⭐ SDVOSB Solicitation | 11 个 |
@@ -19,7 +19,10 @@
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Presolicitation | Feeder #7 Repair | Selfridge ANGB, Michigan | 237130 | 06/30/2026 | 15d | — | 🟡 关注 |
+| Presolicitation | North East River Maintenance Dredging, Cecil County, MD… | Not Specified | 其他重型土建 | 06/30/2026 | 15d | $1,000,000.00 and $5,000,000.00 | 🟡 关注 |
+| Solicitation | National Center for Toxicological Research (NCTR) on-si… | Jefferson, Arkansas | 561210 | 07/15/2026 | 30d | — | 🟡 关注 |
+| Presolicitation | LED Lighting Replacement at Pine Ridge Hospital | Pine Ridge, South Dakota | 238210 | 07/31/2026 | 46d | $1,000,000.00 and $5,000,000.00 | ⬜ 正常 |
+| Presolicitation | ODF-S FY26 Hawker Point North Well Casing Repair | Stockton, Missouri | 水/污水管线 | — | — | — | — |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -65,7 +68,7 @@
 | W912P8-26-B-A072 | Bayou Teche, East and West Calumet Floodgate Appro… | New Orleans, Louisiana | 06/23/2026 | **8d** | $500,000 |  |
 | 140P9726R0002 | Y--GLBA REHAB WATERLINE | Not Specified | 06/24/2026 | **9d** | — |  |
 | W50S8526BA001 | VGLZ 182035 REPAIR BASE PERIMETER ROAD | Not Specified | 06/24/2026 | **9d** | — |  |
-| 140FC326Q0025 | NM DEXTER NFHTC POND LINER 12B & 13B | Not Specified | 06/24/2026 | **9d** | — |  |
+| 140FC326Q0025 | Z--NM DEXTER NFHTC POND LINER 12B & 13B | Not Specified | 06/24/2026 | **9d** | — |  |
 | 140P9726Q0044 | EO14398 UST ASSESSMENT & REPORTING - GLBA | Not Specified | 06/24/2026 | **9d** | — |  |
 | 140P6426Q0073 | Crack and Fog Sealing Multiple Locations | Not Specified | 06/25/2026 | **10d** | $45M |  |
 | N6945026R0064 |  Base Operations Support (BOS) Services at Naval A… | Not Specified | 06/25/2026 | **10d** | — |  |
