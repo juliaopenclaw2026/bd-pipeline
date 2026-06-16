@@ -1,26 +1,28 @@
 # SYTE Corp BD 简报 — 2026-06-16
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-16 18:18
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-16 22:18
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **2** 个 |
-| 本次**更新**记录 | 18 个 |
-| 当前有效机会总数 | 141 个 |
-| 其中 Solicitation | 93 个 |
+| 本次**新增**机会 | **4** 个 |
+| 本次**更新**记录 | 11 个 |
+| 当前有效机会总数 | 145 个 |
+| 其中 Solicitation | 97 个 |
 | 其中 Presolicitation | 48 个 |
 | 🔴 极紧急（≤7天） | 35 个 |
-| 🟠 紧急（8–14天） | 30 个 |
+| 🟠 紧急（8–14天） | 29 个 |
 | ⭐ SDVOSB Solicitation | 11 个 |
 
 ## 🆕 本次新增机会
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Solicitation | Remove Traffic Island and Construct Sloped Concrete Sta… | California | 公路/桥梁 | 07/17/2026 | 31d | $25,000 | ⭐ SDVOSB⬜ 正常 |
-| Presolicitation | Road Gate Painting, Road Gate Installation, Removal and… | Not Specified | 公路/桥梁 | — | — | $100,000 and $250,000 | — |
+| Solicitation | Unidirectional Hydrant Flushing and Repair Program | Not Specified | 水/污水管线 | 07/06/2026 | 20d | $45million | 🟡 关注 |
+| Solicitation | Pompeys Pillar Security System Upgrade | Not Specified | 238210 | 07/13/2026 | 27d | — | 🟡 关注 |
+| Solicitation | GLCA Hite | Not Specified | 其他重型土建 | 07/15/2026 | 29d | — | 🟡 关注 |
+| Presolicitation | C--BGNDRF YARD PIPING & FLOW MEASUREMENT UPGRADES | Not Specified | 水/污水管线 | 07/16/2026 | 30d | — | 🟡 关注 |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -37,7 +39,7 @@
 | 36C25726Q0551 | North Texas Hospital Patient Porters | San Antonio, Texas | 06/17/2026 | **1d** | — | ⭐ SDVOSB |
 | FA850126R0004 | Robins AFB Paving Multi-Award IDIQ | Warner Robins, Georgia | 06/18/2026 | **2d** | $45M |  |
 | 140FGA26Q0029 | Z--EO 14398 - GAOA - National Elk Refuge Electrica… | Not Specified | 06/18/2026 | **2d** | — |  |
-| W912WJ26QA113 | Drainage Basin Installation, Mansfield Hollow Dam,… | Not Specified | 06/18/2026 | **2d** | — |  |
+| W912WJ26QA113 | Drainage Basin Installation, Mansfield Hollow Dam,… | Not Specified | 06/18/2026 | **2d** | $25,000 and $100,000 |  |
 | 36C24726R0074 | Z2NE--544-22-115 Replace Water and Fire Piping Loo… | Columbia, South Carolina | 06/19/2026 | **3d** | — | ⭐ SDVOSB |
 | 140P8426R0002 | Z--Rehab Power and Cooling Systems, Pinnalces NP | Paicines | 06/19/2026 | **3d** | — |  |
 | 12444526Q0039 | Indian River Canoe Trail Clearing | Munising, Michigan | 06/21/2026 | **5d** | $45 Million |  |
@@ -49,7 +51,7 @@
 | W9123626BA007 | James River Maintenance Dredging IDIQ | Not Specified | 06/22/2026 | **6d** | — |  |
 | 140P8626R0003 | Z--Conlon Creek Culvert Removal & Restoration, GOG… | Not Specified | 06/22/2026 | **6d** | — |  |
 | FA302226R0002 | Repair Kiddie Pool | Columbus, Mississippi | 06/22/2026 | **6d** | $25,000 and $100,000 |  |
-| 140L5726Q0019 | CORONA ARCH PARKING EXIT ROAD | Not Specified | 06/22/2026 | **6d** | — |  |
+| 140L5726Q0019 | 56--CORONA ARCH PARKING EXIT ROAD | Not Specified | 06/22/2026 | **6d** | — |  |
 | 140P6326B0006 | Z--KNRI REPLACE VC SANITARY PLUMBING/SEPTIC | Stanton, North Dakota | 06/23/2026 | **7d** | — |  |
 | W50S9526BA002 | Repair and Widen Taxiways Phase III, PSTE 162013 | Not Specified | 06/23/2026 | **7d** | $10,000,000.00 and $25,000,000.00 |  |
 | W912P926BA072 | Bayou Teche, East and West Calumet Floodgate Appro… | New Orleans, Louisiana | 06/23/2026 | **7d** | $500,000 |  |
@@ -61,7 +63,6 @@
 | 140FS226Q0120 | NM - SW NATIVE ARC - 5-Year BPA for Well Repair | Not Specified | 06/23/2026 | **7d** | — |  |
 | 140FC126R0025 | Y--Hasty Point Rice Trunk & | Not Specified | 06/23/2026 | **7d** | — |  |
 | W912P8-26-B-A072 | Bayou Teche, East and West Calumet Floodgate Appro… | New Orleans, Louisiana | 06/23/2026 | **7d** | $500,000 |  |
-| 140P9726R0002 | Y--GLBA REHAB WATERLINE | Not Specified | 06/24/2026 | **8d** | — |  |
 | W50S8526BA001 | VGLZ 182035 REPAIR BASE PERIMETER ROAD | Not Specified | 06/24/2026 | **8d** | — |  |
 | 140FC326Q0025 | Z--NM DEXTER NFHTC POND LINER 12B & 13B | Not Specified | 06/24/2026 | **8d** | — |  |
 | 140P9726Q0044 | EO14398 UST ASSESSMENT & REPORTING - GLBA | Not Specified | 06/24/2026 | **8d** | — |  |
@@ -112,6 +113,7 @@
 
 | Sol # | 项目名称 | 地点 | 截止日期 | 剩余天数 | ROM估算 |
 | --- | --- | --- | --- | --- | --- |
+| 140P9726R0002 | Y--GLBA REHAB WATERLINE | Not Specified | 07/01/2026 | 15d | — |
 | 140P6026B0004 | Z--BRVB - Entry Courtyard Improvements | Topeka, Kansas | 07/02/2026 | 16d | — |
 | 140P8326Q0042 | Telecom lines replacement, Lake Roosevelt NRA | Not Specified | 07/02/2026 | 16d | $150,000 and $175,000 |
 | 140FC226Q0036 | VY-MISSISQUOI NWR-PARKING LOT MAINT | Not Specified | 07/03/2026 | 17d | — |
@@ -121,7 +123,6 @@
 | W9127N26BA015 | Oregon/Washington Clamshell Maintenance Dredging 2… | Not Specified | 07/06/2026 | 20d | — |
 | 140P8326Q0041 | Replacement Maintenance Shop Fire Alarm Control Pa | Not Specified | 07/06/2026 | 20d | — |
 | 140L3626Q0034 | MELSTONE DAM LIVESTOCK WATER SUPPLY | Not Specified | 07/06/2026 | 20d | — |
-| W9127826RA046 | Deer Island Ecosystem Restoration, Phase 1 Deer Is… | Biloxi, Mississippi | 07/07/2026 | 21d | — |
 
 ## 👀 Presolicitation 预警（SDVOSB 优先）
 
