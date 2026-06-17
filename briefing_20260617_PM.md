@@ -1,28 +1,26 @@
 # SYTE Corp BD 简报 — 2026-06-17
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-17 16:46
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-17 22:05
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **4** 个 |
-| 本次**更新**记录 | 18 个 |
-| 当前有效机会总数 | 142 个 |
-| 其中 Solicitation | 93 个 |
-| 其中 Presolicitation | 49 个 |
+| 本次**新增**机会 | **2** 个 |
+| 本次**更新**记录 | 12 个 |
+| 当前有效机会总数 | 145 个 |
+| 其中 Solicitation | 95 个 |
+| 其中 Presolicitation | 50 个 |
 | 🔴 极紧急（≤7天） | 32 个 |
-| 🟠 紧急（8–14天） | 27 个 |
+| 🟠 紧急（8–14天） | 26 个 |
 | ⭐ SDVOSB Solicitation | 10 个 |
 
 ## 🆕 本次新增机会
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Presolicitation | W15QKN-26-R-A070 - Sources Sought for Building 602 Moto… | Not Specified | 公路/桥梁 | 06/24/2026 | 7d | — | 🔴 极紧急 |
-| Solicitation | Y1PZ--810CM3033 Gravesite Expansion with FCA Deficienci… | Dayton, Ohio | 其他重型土建 | 06/30/2026 | 13d | — | ⭐ SDVOSB🟠 紧急 |
-| Presolicitation | Air National Guard (ANG) Smart Meters | Not Specified | 238210 | 07/02/2026 | 15d | $500,000 and $1,000,000 | 🟡 关注 |
-| Solicitation | R3 National Forest’s Roads IDIQ | Not Specified | 公路/桥梁 | 07/24/2026 | 37d | $45,000,000 | ⬜ 正常 |
+| Solicitation | MN-UPR MS RIV NATL WILDL-WELL REPAIRS | Not Specified | 水/污水管线 | 07/08/2026 | 21d | — | 🟡 关注 |
+| Special Notice | Z--Webster Dam, Spillway Radial Gates Repair, Webster U… | Kansas | 其他重型土建 | 08/10/2026 | 54d | $5,000,000 and $10,000,000 | ⬜ 正常 |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -78,7 +76,6 @@
 | W912QR26RA033 | Anniston Army Depot (ANAD) Power Generation and Mi… | Anniston, Alabama | 06/29/2026 | **12d** | — | ⭐ SDVOSB |
 | 89503426BWA000067 | Denison Substation Stage 10, Iowa | Not Specified | 06/29/2026 | **12d** | — |  |
 | 140P6026B0005 | Z--GRPO - Mile Creek Stone Trail Bridge | Grand Portage, Minnesota | 06/29/2026 | **12d** | — |  |
-| W9123826RA016 | U.S. ARMY 63RD READINESS DIVISION MILCON ERCIP MIC… | Not Specified | 06/29/2026 | **12d** | $10,000,000 to $25,000,000 |  |
 | 36C10F26B0001 | Fort Sam Houston National Cemetery, Phase 3 Expans… | San Antonio, Texas | 06/30/2026 | **13d** | $1,000,000 and $2,000,000 | ⭐ SDVOSB |
 | W911WN26BA014 | Shenango River Lake Water Tank Rehabiliation | Not Specified | 06/30/2026 | **13d** | $45,000,000.00 |  |
 | 12FPC326B0006 | ACEP WRE Easement Repair (Dike Repair)-Madison Tow… | Madison, Ohio | 06/30/2026 | **13d** | — |  |
