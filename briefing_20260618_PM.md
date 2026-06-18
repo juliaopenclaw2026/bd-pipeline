@@ -1,16 +1,16 @@
 # SYTE Corp BD 简报 — 2026-06-18
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-18 16:46
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-18 22:19
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **3** 个 |
-| 本次**更新**记录 | 19 个 |
-| 当前有效机会总数 | 143 个 |
-| 其中 Solicitation | 93 个 |
-| 其中 Presolicitation | 50 个 |
+| 本次**新增**机会 | **2** 个 |
+| 本次**更新**记录 | 12 个 |
+| 当前有效机会总数 | 145 个 |
+| 其中 Solicitation | 96 个 |
+| 其中 Presolicitation | 49 个 |
 | 🔴 极紧急（≤7天） | 34 个 |
 | 🟠 紧急（8–14天） | 22 个 |
 | ⭐ SDVOSB Solicitation | 9 个 |
@@ -19,9 +19,8 @@
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Presolicitation | Y--Boat Ramp Replacement Project at Kirwin NWR | Kirwin, Kansas | 其他重型土建 | 07/31/2026 | 43d | $500K and $1M | ⬜ 正常 |
-| Presolicitation | Project VI NP VIIS 100(3) - Rehabilitation of Lameshur … | Not Specified | 公路/桥梁 | 08/04/2026 | 47d | $2,000,000 to $3,000,000 | ⬜ 正常 |
-| Presolicitation | USACE SPK DB Construction – DDJC Centralized Gas and El… | Tracy, California | 237130 | — | — | $5,000,000 and $10,000,000 | — |
+| Solicitation | 14 Weapons Sq Audio/Visual Refresh | Florida | 238210 | 07/06/2026 | 18d | — | 🟡 关注 |
+| Solicitation | Repair Carswell Ave. | DWG, Texas | 公路/桥梁 | 07/17/2026 | 29d | — | 🟡 关注 |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -31,7 +30,6 @@
 | 140FGA26Q0029 | Z--EO 14398 - GAOA - National Elk Refuge Electrica… | Not Specified | 06/18/2026 | **0d** | — |  |
 | W912WJ26QA113 | Drainage Basin Installation, Mansfield Hollow Dam,… | Not Specified | 06/18/2026 | **0d** | $25,000 and $100,000 |  |
 | 36C24726R0074 | Z2NE--544-22-115 Replace Water and Fire Piping Loo… | Columbia, South Carolina | 06/19/2026 | **1d** | — | ⭐ SDVOSB |
-| 140P8426R0002 | Z--Rehab Power and Cooling Systems, Pinnalces NP | Paicines | 06/19/2026 | **1d** | — |  |
 | 12444526Q0039 | Indian River Canoe Trail Clearing | Munising, Michigan | 06/21/2026 | **3d** | $45 Million |  |
 | W912P526RA008 | DESGIN BUILD/DESIGN BID BUILD ENVIRONMENTAL INFRAS… | Not Specified | 06/22/2026 | **4d** | $1M to $15M |  |
 | 140P6326Q0022 | Y--PAIS WASTE WATER TANK REPLACEMENT | Not Specified | 06/22/2026 | **4d** | — |  |
@@ -45,6 +43,7 @@
 | 140P6326B0006 | Z--KNRI REPLACE VC SANITARY PLUMBING/SEPTIC | Stanton, North Dakota | 06/23/2026 | **5d** | — |  |
 | W50S9526BA002 | Repair and Widen Taxiways Phase III, PSTE 162013 | Not Specified | 06/23/2026 | **5d** | $10,000,000.00 and $25,000,000.00 |  |
 | W912P926BA072 | Bayou Teche, East and West Calumet Floodgate Appro… | New Orleans, Louisiana | 06/23/2026 | **5d** | $500,000 |  |
+| 140P8426R0002 | Z--Rehab Power and Cooling Systems, Pinnalces NP | Paicines | 06/23/2026 | **5d** | — |  |
 | FA441726Q0099 | 23 STS HPTC Surround Sound Installation | Hurlburt Field, Florida | 06/23/2026 | **5d** | — |  |
 | 140FC226Q0033 | VA-RAPPAHANNOCK RIV NWR-WELL DRILLING | Not Specified | 06/23/2026 | **5d** | — |  |
 | FA480026B0002 | IFB FA489926B0002 - JBLE Paving Services | Not Specified | 06/23/2026 | **5d** | $132,667,510 |  |
@@ -103,15 +102,15 @@
 | Sol # | 项目名称 | 地点 | 截止日期 | 剩余天数 | ROM估算 |
 | --- | --- | --- | --- | --- | --- |
 | 140FC226Q0036 | VY-MISSISQUOI NWR-PARKING LOT MAINT | Not Specified | 07/03/2026 | 15d | — |
-| 89503326BWA000019 | Cottonwood Substation Construction, Stage 02, Phas | Not Specified | 07/06/2026 | 18d | — |
+| 89503326BWA000019 | Y--Cottonwood Substation Construction, Stage 02, P… | Not Specified | 07/06/2026 | 18d | — |
 | 191BWC26B0001 | Tainter Gates Sandblasting | Del Rio, Texas | 07/06/2026 | 18d | $1 Million to $5 Million |
 | 140FGA26R0021 | Y--MI-SENEY NWR-DC DAM DECOMMISIONING | Not Specified | 07/06/2026 | 18d | — |
 | W9127N26BA015 | Oregon/Washington Clamshell Maintenance Dredging 2… | Not Specified | 07/06/2026 | 18d | — |
 | 140P8326Q0041 | Replacement Maintenance Shop Fire Alarm Control Pa | Not Specified | 07/06/2026 | 18d | — |
 | 140L3626Q0034 | MELSTONE DAM LIVESTOCK WATER SUPPLY | Not Specified | 07/06/2026 | 18d | — |
 | W56ZTN26BA003 | Unidirectional Hydrant Flushing and Repair Program | Not Specified | 07/06/2026 | 18d | $45million |
+| FA441726Q0118 | 14 Weapons Sq Audio/Visual Refresh | Florida | 07/06/2026 | 18d | — |
 | W9127826RA046 | Deer Island Ecosystem Restoration, Phase 1 Deer Is… | Biloxi, Mississippi | 07/07/2026 | 19d | — |
-| W912P926BA007 | Crains Island Stage 3 | Not Specified | 07/07/2026 | 19d | — |
 
 ## 👀 Presolicitation 预警（SDVOSB 优先）
 
