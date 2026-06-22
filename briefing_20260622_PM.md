@@ -1,16 +1,16 @@
 # SYTE Corp BD 简报 — 2026-06-22
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-22 18:05
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-22 22:09
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **2** 个 |
-| 本次**更新**记录 | 4 个 |
-| 当前有效机会总数 | 139 个 |
-| 其中 Solicitation | 93 个 |
-| 其中 Presolicitation | 46 个 |
+| 本次**新增**机会 | **1** 个 |
+| 本次**更新**记录 | 5 个 |
+| 当前有效机会总数 | 140 个 |
+| 其中 Solicitation | 96 个 |
+| 其中 Presolicitation | 44 个 |
 | 🔴 极紧急（≤7天） | 42 个 |
 | 🟠 紧急（8–14天） | 20 个 |
 | ⭐ SDVOSB Solicitation | 9 个 |
@@ -19,8 +19,7 @@
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Solicitation | Cape Canaveral National Cemetery Ornamental Grass Renov… | Mims, Florida | 其他重型土建 | 06/26/2026 | 4d | — | ⭐ SDVOSB🔴 极紧急 |
-| Solicitation | Y--North Gunnison Substation 115kV Switch Install | Not Specified | 237130 | 07/06/2026 | 14d | — | 🟠 紧急 |
+| Solicitation | LARO-DRILL NEW WATER WELL - SHERMAN HOMES CABINS | Not Specified | 水/污水管线 | 07/17/2026 | 25d | — | 🟡 关注 |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
