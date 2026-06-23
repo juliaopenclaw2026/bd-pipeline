@@ -1,29 +1,29 @@
 # SYTE Corp BD 简报 — 2026-06-23
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-23 16:10
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-23 21:45
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
 | 本次**新增**机会 | **5** 个 |
-| 本次**更新**记录 | 12 个 |
-| 当前有效机会总数 | 133 个 |
-| 其中 Solicitation | 92 个 |
-| 其中 Presolicitation | 41 个 |
+| 本次**更新**记录 | 14 个 |
+| 当前有效机会总数 | 138 个 |
+| 其中 Solicitation | 96 个 |
+| 其中 Presolicitation | 42 个 |
 | 🔴 极紧急（≤7天） | 38 个 |
-| 🟠 紧急（8–14天） | 20 个 |
+| 🟠 紧急（8–14天） | 21 个 |
 | ⭐ SDVOSB Solicitation | 9 个 |
 
 ## 🆕 本次新增机会
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Solicitation | NOAA Western Regional Center H32 Electrical Repair | Not Specified | 238210 | 07/02/2026 | 9d | $19.0 Million | 🟠 紧急 |
-| Solicitation | Y--LAKE - EXTEND RAMP AT PEARCE FERRY | Not Specified | 其他重型土建 | 07/08/2026 | 15d | — | 🟡 关注 |
-| Solicitation | Harlow Island Stage 1B | Not Specified | 其他重型土建 | 07/23/2026 | 30d | — | 🟡 关注 |
-| Solicitation | Toledo Harbor/River Dredging | Not Specified | 其他重型土建 | 07/23/2026 | 30d | — | 🟡 关注 |
-| Presolicitation | CORINTH NATIONAL CEMETERY, 838CM3036 – GRAVESITE EXPANS… | Corinth, Mississippi | 其他重型土建 | — | — | — | ⭐ SDVOSB— |
+| Solicitation | Z--Munising Falls Trail Rehabilitation | Not Specified | 其他重型土建 | 07/01/2026 | 8d | — | 🟠 紧急 |
+| Solicitation | GAOA Accessible Upgrades Toilet Replacement | Sonora, California | 其他重型土建 | 07/22/2026 | 29d | — | 🟡 关注 |
+| Solicitation | B16 PLC Replacement | Not Specified | 238210 | 07/24/2026 | 31d | — | ⬜ 正常 |
+| Solicitation | Electrical Infrastructure Upgrade (Optics) | Butner, North Carolina | 238210 | 08/05/2026 | 43d | — | ⬜ 正常 |
+| Presolicitation | Z1DA--ATTN GLAC SERVICES 537-25-102 Pyxis Cameras/Secur… | Chicago, Illinois | 238210 | 09/03/2026 | 72d | $1,000,000.00 and $2,000,000,000.00 | ⭐ SDVOSB⬜ 正常 |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -34,7 +34,6 @@
 | FA441726Q0099 | 23 STS HPTC Surround Sound Installation | Hurlburt Field, Florida | 06/23/2026 | **0d** | — |  |
 | 140FC226Q0033 | VA-RAPPAHANNOCK RIV NWR-WELL DRILLING | Not Specified | 06/23/2026 | **0d** | — |  |
 | 140FGA26Q0033 | 61--AR-MAMMOTH SPRING NFH-REPLACE GENERATOR | Not Specified | 06/23/2026 | **0d** | — |  |
-| 140FS226Q0120 | NM - SW NATIVE ARC - 5-Year BPA for Well Repair | Not Specified | 06/23/2026 | **0d** | — |  |
 | 140FC126R0025 | Y--Hasty Point Rice Trunk & | Not Specified | 06/23/2026 | **0d** | — |  |
 | W912P8-26-B-A072 | Bayou Teche, East and West Calumet Floodgate Appro… | New Orleans, Louisiana | 06/23/2026 | **0d** | $500,000 |  |
 | 140FC326Q0025 | Z--NM DEXTER NFHTC POND LINER 12B & 13B | Not Specified | 06/24/2026 | **1d** | — |  |
@@ -51,6 +50,7 @@
 | 89503426BWA000066 | Carpenter Substation Stage 03 South Dakota | Not Specified | 06/26/2026 | **3d** | — |  |
 | 140P6026Q0025 | Z--FOSM - Replace Backflow Prevention Assemblies | Fort Smith, Arkansas | 06/26/2026 | **3d** | — |  |
 | W912WJ26QA119 | Storage Building Parking Lot Installation and Pavi… | Not Specified | 06/26/2026 | **3d** | $100,000 and $250,000 |  |
+| 140FS226Q0120 | J--NM - SW NATIVE ARC - 5-Year BPA for Well Repair | Not Specified | 06/26/2026 | **3d** | — |  |
 | FA441826Q0067 | 841st Network Cabling Installation | North Charleston, South Carolina | 06/26/2026 | **3d** | — |  |
 | 36C78626B0017 | Cape Canaveral National Cemetery Ornamental Grass … | Mims, Florida | 06/26/2026 | **3d** | — | ⭐ SDVOSB |
 | 140R2026R0007 | Z--CT SWITCHGEAR REPLACEMENT STAMPEDE PP | Not Specified | 06/27/2026 | **4d** | — |  |
@@ -69,6 +69,7 @@
 | 36C78626B0007 | Y1PZ--810CM3033 Gravesite Expansion with FCA Defic… | Dayton, Ohio | 06/30/2026 | **7d** | — | ⭐ SDVOSB |
 | 140P9726R0002 | Y--GLBA REHAB WATERLINE | Not Specified | 07/01/2026 | **8d** | — |  |
 | 140A1626QD002 | N-- AIRR Security Cameras & Badging for BTFA | Not Specified | 07/01/2026 | **8d** | — |  |
+| 140P6426B0004 | Z--Munising Falls Trail Rehabilitation | Not Specified | 07/01/2026 | **8d** | — |  |
 | 140P6026B0004 | Z--BRVB - Entry Courtyard Improvements | Topeka, Kansas | 07/02/2026 | **9d** | — |  |
 | 140P8326Q0042 | Telecom lines replacement, Lake Roosevelt NRA | Not Specified | 07/02/2026 | **9d** | $150,000 and $175,000 |  |
 | 1305M326Q0251 | NOAA Western Regional Center H32 Electrical Repair | Not Specified | 07/02/2026 | **9d** | $19.0 Million |  |
@@ -127,8 +128,8 @@
 | 36C24226B0057 | N091--PROJECT # 528-18-110  Fuel Oil Tank Replacem… | Buffalo, New York | 油气管道 | ⭐ SDVOSB |
 | 36C24726Q0610 | J041--Columbia South Carolina Boiler Plant Light F… | Columbia, South Carolina | 561210 | ⭐ SDVOSB |
 | 36C78626B0023 | CORINTH NATIONAL CEMETERY, 838CM3036 – GRAVESITE E… | Corinth, Mississippi | 其他重型土建 | ⭐ SDVOSB |
+| 36C25226B0031 | Z1DA--ATTN GLAC SERVICES 537-25-102 Pyxis Cameras/… | Chicago, Illinois | 238210 | ⭐ SDVOSB |
 | W9127826RA025 | Phillips Parkway Haul Route | Cape Canaveral, Florida | 公路/桥梁 | SBA |
-| 140P5326R0019 | Y--GRSM NEWFOUND GAP WASTEWATER SYSTEM WORK | Not Specified | 水/污水管线 | SBA |
 
 ---
 _自动生成 by SYTE BD Pipeline ｜ 2026-06-23_
