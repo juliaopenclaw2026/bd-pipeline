@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SYTE Corp — CEO Brief 2026-07-21</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #F5F7FA; color: #1B2A4A; font-size: 15px; }
+
+    /* ── Header ── */
+    .header { background: #1B2A4A; color: white; padding: 20px 24px 16px; }
+    .header-top { display: flex; justify-content: space-between; align-items: flex-start;
+                   flex-wrap: wrap; gap: 8px; }
+    .brand { font-size: 11px; font-weight: 700; letter-spacing: 1.5px;
+              color: #93C5FD; text-transform: uppercase; margin-bottom: 4px; }
+    .header-title { font-size: 22px; font-weight: 700; line-height: 1.2; }
+    .header-date { font-size: 13px; color: #93C5FD; margin-top: 2px; }
+    .header-note { font-size: 11px; color: #64748B; margin-top: 8px; font-style: italic; }
+
+    /* ── KPI bar ── */
+    .kpi-bar { background: #2E86AB; display: flex; flex-wrap: wrap; }
+    .kpi { flex: 1; min-width: 80px; padding: 12px 16px; text-align: center;
+            border-right: 1px solid rgba(255,255,255,0.15); }
+    .kpi:last-child { border-right: none; }
+    .kpi-value { font-size: 22px; font-weight: 700; color: white; line-height: 1; }
+    .kpi-label { font-size: 10px; color: rgba(255,255,255,0.75); text-transform: uppercase;
+                  letter-spacing: 0.5px; margin-top: 3px; }
+
+    /* ── Section ── */
+    .section-header { background: white; margin: 16px 16px 0;
+                       border-radius: 10px 10px 0 0; padding: 14px 18px 10px;
+                       border-bottom: 2px solid #F5F7FA; }
+    .section-title { font-size: 13px; font-weight: 700; color: #E94F37;
+                      text-transform: uppercase; letter-spacing: 0.8px; }
+    .section-sub { font-size: 12px; color: #718096; margin-top: 2px; }
+
+    /* ── Cards ── */
+    .cards-wrap { margin: 0 16px 16px; display: flex; flex-direction: column; gap: 0; }
+    .card { background: white; padding: 16px 18px; border-bottom: 1px solid #F0F4F8;
+             transition: background 0.1s; }
+    .card:last-child { border-radius: 0 0 10px 10px; border-bottom: none; }
+
+    .card-top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 8px; }
+    .action-badge { font-size: 11px; font-weight: 700; color: white;
+                     padding: 3px 10px; border-radius: 20px; letter-spacing: 0.3px; }
+    .notice-type { font-size: 11px; color: #718096; background: #F3F4F6;
+                    padding: 2px 8px; border-radius: 10px; }
+    .badge { font-size: 11px; padding: 3px 8px; border-radius: 10px; font-weight: 500; }
+
+    .card-title { font-size: 15px; font-weight: 600; color: #1B2A4A;
+                   line-height: 1.4; margin-bottom: 8px; }
+
+    .card-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+    .meta-item { font-size: 12px; color: #4A5568; }
+
+    .card-badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+
+    .ai-row { display: flex; align-items: baseline; gap: 10px; margin-bottom: 7px;
+               flex-wrap: wrap; }
+    .ai-score { font-size: 13px; font-weight: 700; white-space: nowrap; }
+    .ai-reason { font-size: 12px; color: #4A5568; font-style: italic; }
+
+.card-footer { display: flex; justify-content: space-between; align-items: center;
+                    margin-top: 4px; }
+    .sol-num { font-size: 11px; color: #A0AEC0; font-family: monospace; }
+    .sam-link { font-size: 12px; color: #2E86AB; text-decoration: none; font-weight: 600; }
+    .sam-link:hover { text-decoration: underline; }
+
+    /* ── Footer ── */
+    .footer { text-align: center; padding: 20px 16px; font-size: 11px; color: #A0AEC0; }
+
+    /* ── Desktop ── */
+    @media (min-width: 700px) {
+      body { max-width: 680px; margin: 0 auto; box-shadow: 0 0 40px rgba(0,0,0,0.08); }
+      .header { padding: 24px 28px 20px; }
+      .header-title { font-size: 26px; }
+      .section-header { margin: 20px 20px 0; }
+      .cards-wrap { margin: 0 20px 20px; }
+    }
+
+    @media print {
+      body { background: white; }
+      .sam-link { color: #2E86AB; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-top">
+    <div>
+      <div class="brand">SYTE Corp · Business Development</div>
+      <div class="header-title">CEO Decision Brief</div>
+      <div class="header-date">July 21, 2026</div>
+    </div>
+  </div>
+  <div class="header-note">
+    Showing 8 of 38 active opportunities · Full report: SAM_Opportunities_Report_20260721_PM.xlsx
+  </div>
+</div>
+
+<div class="kpi-bar">
+  <div class="kpi">
+    <div class="kpi-value">38</div>
+    <div class="kpi-label">Total Opps</div>
+  </div>
+  <div class="kpi">
+    <div class="kpi-value">11</div>
+    <div class="kpi-label">Solicitations</div>
+  </div>
+  <div class="kpi">
+    <div class="kpi-value" style="color:#FCA5A5">10</div>
+    <div class="kpi-label">Urgent ≤14d</div>
+  </div>
+  <div class="kpi">
+    <div class="kpi-value" style="color:#FDE68A">6</div>
+    <div class="kpi-label">SDVOSB</div>
+  </div>
+  <div class="kpi">
+    <div class="kpi-value">$3.8B</div>
+    <div class="kpi-label">Pipeline ROM</div>
+  </div>
+</div>
+
+<div class="section-header">
+  <div class="section-title">⚡ 8 Opportunities — Your Decision Needed</div>
+  <div class="section-sub">Sorted by urgency · SDVOSB highlighted · AI score when available</div>
+</div>
+<div class="cards-wrap">
+
+  <div class="card" style="border-left: 5px solid #E94F37">
+    <div class="card-top">
+      <span class="action-badge" style="background:#E94F37">🎯  BID NOW</span>
+      <span class="notice-type">Solicitation</span>
+      <span class="badge" style="background:#FEF3C7;color:#92400E;font-weight:700">⭐ SDVOSB</span>
+    </div>
+    <div class="card-title">Y1NE| SOLICIATION | 36C25626R0015 | CONSTRUCT NEW WATER STORAGE FACILITY</div>
+    <div class="card-meta">
+      <span class="meta-item">🏛 </span>
+      <span class="meta-item">📍 Fayetteville, Arkansas</span>
+      <span class="meta-item">🏗 NAICS 237110</span>
+      <span class='meta-item'>💰 $10,000,000.00 and $20,000,000</span>
+    </div>
+    <div class="card-badges">
+      <span class="badge" style="background:#E94F37;color:#FFFFFF">📅 Jul 23, 2026 · 2d</span>
+    </div>
+    <div class="ai-row"><span class="ai-score" style="color:#CBD5E0">AI scoring not enabled</span></div>
+    
+    <div class="card-footer">
+      <span class="sol-num">#36C25626R0015</span>
+      <a href="https://sam.gov/workspace/contract/opp/10bb9317a59f49a6bd1f91095e072d43/view" target="_blank" class="sam-link">View on SAM.gov →</a>
+    </div>
+  </div>
+
+  <div class="card" style="border-left: 5px solid #E94F37">
+    <div class="card-top">
+      <span class="action-badge" style="background:#E94F37">🎯  BID NOW</span>
+      <span class="notice-type">Solicitation</span>
+      
+    </div>
+    <div class="card-title">GAOA Accessible Upgrades Toilet Replacement</div>
+    <div class="card-meta">
+      <span class="meta-item">🏛 </span>
+      <span class="meta-item">📍 Sonora, California</span>
+      <span class="meta-item">🏗 NAICS 237990</span>
+      
+    </div>
+    <div class="card-badges">
+      <span class="badge" style="background:#E94F37;color:#FFFFFF">📅 Jul 22, 2026 · 1d</span>
+    </div>
+    <div class="ai-row"><span class="ai-score" style="color:#CBD5E0">AI scoring not enabled</span></div>
+    
+    <div class="card-footer">
+      <span class="sol-num">#127EAX26Q0051</span>
+      <a href="https://sam.gov/workspace/contract/opp/967f575520ee49cdb27551f8e34e8603/view" target="_blank" class="sam-link">View on SAM.gov →</a>
+    </div>
+  </div>
+
+  <div class="card" style="border-left: 5px solid #E94F37">
+    <div class="card-top">
+      <span class="action-badge" style="background:#E94F37">🎯  BID NOW</span>
+      <span class="notice-type">Solicitation</span>
+      
+    </div>
+    <div class="card-title">FMC Rochester Install Above Ground Tanks</div>
+    <div class="card-meta">
+      <span class="meta-item">🏛 </span>
+      <span class="meta-item">📍 Rochester, Minnesota</span>
+      <span class="meta-item">🏗 NAICS 237120</span>
+      <span class='meta-item'>💰 $250,000 and $500,000</span>
+    </div>
+    <div class="card-badges">
+      <span class="badge" style="background:#E94F37;color:#FFFFFF">📅 Jul 22, 2026 · 1d</span>
+    </div>
+    <div class="ai-row"><span class="ai-score" style="color:#CBD5E0">AI scoring not enabled</span></div>
+    
+    <div class="card-footer">
+      <span class="sol-num">#15B41226Q00000006</span>
+      <a href="https://sam.gov/workspace/contract/opp/0d9d8c352f4b4fee9afeb05a81412563/view" target="_blank" class="sam-link">View on SAM.gov →</a>
+    </div>
+  </div>
+
+  <div class="card" style="border-left: 5px solid #E94F37">
+    <div class="card-top">
+      <span class="action-badge" style="background:#E94F37">🎯  BID NOW</span>
+      <span class="notice-type">Solicitation</span>
+      
+    </div>
+    <div class="card-title">Harlow Island Stage 1B</div>
+    <div class="card-meta">
+      <span class="meta-item">🏛 </span>
+      <span class="meta-item">📍 Not Specified</span>
+      <span class="meta-item">🏗 NAICS 237990</span>
+      
+    </div>
+    <div class="card-badges">
+      <span class="badge" style="background:#E94F37;color:#FFFFFF">📅 Jul 23, 2026 · 2d</span>
+    </div>
+    <div class="ai-row"><span class="ai-score" style="color:#CBD5E0">AI scoring not enabled</span></div>
+    
+    <div class="card-footer">
+      <span class="sol-num">#W912P926R8225</span>
+      <a href="https://sam.gov/workspace/contract/opp/d671f799a8fe4a0c80548e3b5472a7fc/view" target="_blank" class="sam-link">View on SAM.gov →</a>
+    </div>
+  </div>
+
+  <div class="card" style="border-left: 5px solid #E94F37">
+    <div class="card-top">
+      <span class="action-badge" style="background:#E94F37">🎯  BID NOW</span>
+      <span class="notice-type">Solicitation</span>
+      
+    </div>
+    <div class="card-title">Toledo Harbor/River Dredging</div>
+    <div class="card-meta">
+      <span class="meta-item">🏛 </span>
+      <span class="meta-item">📍 Not Specified</span>
+      <span class="meta-item">🏗 NAICS 237990</span>
+      
+    </div>
+    <div class="card-badges">
+      <span class="badge" style="background:#E94F37;color:#FFFFFF">📅 Jul 23, 2026 · 2d</span>
+    </div>
+    <div class="ai-row"><span class="ai-score" style="color:#CBD5E0">AI scoring not enabled</span></div>
+    
+    <div class="card-footer">
+      <span class="sol-num">#W912P426BA002</span>
+      <a href="https://sam.gov/workspace/contract/opp/0b2369894048412e90ef45a4b8a929bc/view" target="_blank" class="sam-link">View on SAM.gov →</a>
+    </div>
+  </div>
+
+  <div class="card" style="border-left: 5px solid #F18F01">
+    <div class="card-top">
+      <span class="action-badge" style="background:#F18F01">👀  RESPOND TO RFI</span>
+      <span class="notice-type">Presolicitation</span>
+      <span class="badge" style="background:#FEF3C7;color:#92400E;font-weight:700">⭐ SDVOSB</span>
+    </div>
+    <div class="card-title">Z1DA--556-24-113  Oil Transformer and Switch Enclosure Upgrades</div>
+    <div class="card-meta">
+      <span class="meta-item">🏛 </span>
+      <span class="meta-item">📍 North Chicago, Illinois</span>
+      <span class="meta-item">🏗 NAICS 238210</span>
+      <span class='meta-item'>💰 $2,000,000.00 and $5,000,000.0</span>
+    </div>
+    <div class="card-badges">
+      <span class="badge" style="background:#E07B3A;color:#FFFFFF">📅 Aug 04, 2026 · 14d</span>
+    </div>
+    <div class="ai-row"><span class="ai-score" style="color:#CBD5E0">AI scoring not enabled</span></div>
+    
+    <div class="card-footer">
+      <span class="sol-num">#36C25226B0029</span>
+      <a href="https://sam.gov/workspace/contract/opp/00f1d0cdda32486fac6910fd8aee7a6c/view" target="_blank" class="sam-link">View on SAM.gov →</a>
+    </div>
+  </div>
+
+  <div class="card" style="border-left: 5px solid #F18F01">
+    <div class="card-top">
+      <span class="action-badge" style="background:#F18F01">👀  RESPOND TO RFI</span>
+      <span class="notice-type">Presolicitation</span>
+      <span class="badge" style="background:#FEF3C7;color:#92400E;font-weight:700">⭐ SDVOSB</span>
+    </div>
+    <div class="card-title">Z1DA--ATTN GLAC SERVICES 537-25-102 Pyxis Cameras/Security  Renovations (VA-26-00016882)  …</div>
+    <div class="card-meta">
+      <span class="meta-item">🏛 </span>
+      <span class="meta-item">📍 Chicago, Illinois</span>
+      <span class="meta-item">🏗 NAICS 238210</span>
+      <span class='meta-item'>💰 $1,000,000.00 and $2,000,000,0</span>
+    </div>
+    <div class="card-badges">
+      <span class="badge" style="background:#F3F4F6;color:#374151">📅 Sep 03, 2026 · 44d</span>
+    </div>
+    <div class="ai-row"><span class="ai-score" style="color:#CBD5E0">AI scoring not enabled</span></div>
+    
+    <div class="card-footer">
+      <span class="sol-num">#36C25226B0031</span>
+      <a href="https://sam.gov/workspace/contract/opp/65a3ac18dd304924a25b6f0837d05592/view" target="_blank" class="sam-link">View on SAM.gov →</a>
+    </div>
+  </div>
+
+  <div class="card" style="border-left: 5px solid #F18F01">
+    <div class="card-top">
+      <span class="action-badge" style="background:#F18F01">👀  RESPOND TO RFI</span>
+      <span class="notice-type">Presolicitation</span>
+      <span class="badge" style="background:#FEF3C7;color:#92400E;font-weight:700">⭐ SDVOSB</span>
+    </div>
+    <div class="card-title">Y1DA--CON Project 674A4-21-108 - Upgrade Fire Alarm  System Campus Wide  (Waco) (VA-25-000…</div>
+    <div class="card-meta">
+      <span class="meta-item">🏛 </span>
+      <span class="meta-item">📍 Waco, Texas</span>
+      <span class="meta-item">🏗 NAICS 238210</span>
+      <span class='meta-item'>💰 $5,000,000,000 and $10,000,000</span>
+    </div>
+    <div class="card-badges">
+      <span class="badge" style="background:#F3F4F6;color:#718096">📅 TBD</span>
+    </div>
+    <div class="ai-row"><span class="ai-score" style="color:#CBD5E0">AI scoring not enabled</span></div>
+    
+    <div class="card-footer">
+      <span class="sol-num">#36C25726B0007</span>
+      <a href="https://sam.gov/workspace/contract/opp/634800be6f2942bfa32758b01d7fc8c0/view" target="_blank" class="sam-link">View on SAM.gov →</a>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  Auto-generated by SYTE BD Pipeline · 2026-07-21 15:22 ·
+  Full pipeline: 38 active opportunities
+</div>
+
+</body>
+</html>
