@@ -1,6 +1,6 @@
-# SYTE Corp BD 简报 — 2026-07-28
+# SYTE Corp BD 简报 — 2026-08-03
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-07-28 21:12
+> 数据来源：SAM.gov ｜ 更新时间：2026-08-03 16:03
 
 ## 📌 本次更新摘要
 
@@ -8,11 +8,11 @@
 |---|---|
 | 本次**新增**机会 | **0** 个 |
 | 本次**更新**记录 | 0 个 |
-| 当前有效机会总数 | 23 个 |
+| 当前有效机会总数 | 21 个 |
 | 其中 Solicitation | 1 个 |
-| 其中 Presolicitation | 22 个 |
-| 🔴 极紧急（≤7天） | 0 个 |
-| 🟠 紧急（8–14天） | 1 个 |
+| 其中 Presolicitation | 20 个 |
+| 🔴 极紧急（≤7天） | 1 个 |
+| 🟠 紧急（8–14天） | 0 个 |
 | ⭐ SDVOSB Solicitation | 0 个 |
 
 ## 🆕 本次新增机会
@@ -23,7 +23,7 @@ _本次运行无新增机会（均为历史记录更新）。_
 
 | Sol # | 项目名称 | 地点 | 截止日期 | 剩余天数 | ROM估算 | 标志 |
 | --- | --- | --- | --- | --- | --- | --- |
-| SV0218-26 | Electrical Infrastructure Upgrade (Optics) | Butner, North Carolina | 08/05/2026 | **8d** | — |  |
+| SV0218-26 | Electrical Infrastructure Upgrade (Optics) | Butner, North Carolina | 08/05/2026 | **2d** | — |  |
 
 ## ⭐ SDVOSB 重点机会（最高优先级）
 
@@ -47,4 +47,4 @@ _目前没有 15–30 天内截止的 Solicitation。_
 | W912HY26BA030 | HOUSTON SHIP CHANNEL, TEXAS, PLACEMENT AREA 14 DIK… | Not Specified | 其他重型土建 | SBA |
 
 ---
-_自动生成 by SYTE BD Pipeline ｜ 2026-07-28_
+_自动生成 by SYTE BD Pipeline ｜ 2026-08-03_
