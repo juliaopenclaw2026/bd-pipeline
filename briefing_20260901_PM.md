@@ -1,6 +1,6 @@
-# SYTE Corp BD 简报 — 2026-08-07
+# SYTE Corp BD 简报 — 2026-09-01
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-08-07 20:46
+> 数据来源：SAM.gov ｜ 更新时间：2026-09-01 17:23
 
 ## 📌 本次更新摘要
 
@@ -8,9 +8,9 @@
 |---|---|
 | 本次**新增**机会 | **0** 个 |
 | 本次**更新**记录 | 0 个 |
-| 当前有效机会总数 | 18 个 |
+| 当前有效机会总数 | 16 个 |
 | 其中 Solicitation | 0 个 |
-| 其中 Presolicitation | 18 个 |
+| 其中 Presolicitation | 16 个 |
 | 🔴 极紧急（≤7天） | 0 个 |
 | 🟠 紧急（8–14天） | 0 个 |
 | ⭐ SDVOSB Solicitation | 0 个 |
@@ -45,4 +45,4 @@ _目前没有 15–30 天内截止的 Solicitation。_
 | W911WN26BA008 | Conemaugh Dam Gantry Crane Machinery Housing Roof … | Saltsburg, Pennsylvania | 其他重型土建 | SBA |
 
 ---
-_自动生成 by SYTE BD Pipeline ｜ 2026-08-07_
+_自动生成 by SYTE BD Pipeline ｜ 2026-09-01_
