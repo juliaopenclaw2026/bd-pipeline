@@ -1,6 +1,6 @@
-# SYTE Corp BD 简报 — 2026-09-24
+# SYTE Corp BD 简报 — 2026-10-01
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-09-24 23:06
+> 数据来源：SAM.gov ｜ 更新时间：2026-10-01 18:58
 
 ## 📌 本次更新摘要
 
@@ -45,4 +45,4 @@ _目前没有 15–30 天内截止的 Solicitation。_
 | PANNWD26P0000028054 | Levee Repair at MRLS L246 | Not Specified | 其他重型土建 | SBA |
 
 ---
-_自动生成 by SYTE BD Pipeline ｜ 2026-09-24_
+_自动生成 by SYTE BD Pipeline ｜ 2026-10-01_
